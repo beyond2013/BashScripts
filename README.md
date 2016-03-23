@@ -1,5 +1,4 @@
 # BashScripts
-At the moment this repo contains only one bashscript file
-by the name renamefile.sh, the purpose of the file is to
-rename a bunch of mp4 files in a directory. Filenames of the
-pattern "Album Track 14 by Artist.mp4" will be renamed to "14.mp4" 
+1. **renamefile.sh** renames  "Album Track 14 by Artist.mp4" to "14.mp4"  
+2. **mount.sh** mounts **Research** and **Backup** partitions to ~/research and ~/backup directories  
+3. **umount.sh** unmounts the partitions mentioned in 2
